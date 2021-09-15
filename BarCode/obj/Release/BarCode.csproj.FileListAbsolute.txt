@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\BarCode\BarCode\bin\Release\BarCode.exe.config
+C:\Users\user\source\repos\BarCode\BarCode\bin\Release\BarCode.exe
+C:\Users\user\source\repos\BarCode\BarCode\bin\Release\BarCode.pdb
+C:\Users\user\source\repos\BarCode\BarCode\bin\Release\Zen.Barcode.Core.dll
+C:\Users\user\source\repos\BarCode\BarCode\obj\Release\BarCode.Form1.resources
+C:\Users\user\source\repos\BarCode\BarCode\obj\Release\BarCode.Properties.Resources.resources
+C:\Users\user\source\repos\BarCode\BarCode\obj\Release\BarCode.csproj.GenerateResource.cache
+C:\Users\user\source\repos\BarCode\BarCode\obj\Release\BarCode.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\BarCode\BarCode\obj\Release\BarCode.csproj.CopyComplete
+C:\Users\user\source\repos\BarCode\BarCode\obj\Release\BarCode.exe
+C:\Users\user\source\repos\BarCode\BarCode\obj\Release\BarCode.pdb
